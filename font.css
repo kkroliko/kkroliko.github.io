@@ -14,40 +14,6 @@ body{
 
 
 }
-
-
-<div class="row">
-                                      <div>
-                                         <div class="col s6 m2 l2">
-                                            <img class="responsive-img" src="test.png"></div>
-                                          <div class="col s12 m2 l9">
-                                            <div class="card blue">
-                                              <div class="card-content white-text">
-                                                <span class="card-title">Développeur Logiciel</span>
-                                                      <p>Nouveau dans le domaine de la programation , je me suis lancé dans la création de  
-                                                          <em>hello-world</em> dans tout les languages connus.
-                                                      </p>
-                                              </div>
-                                            </div>
-                                          </div>
-                                      </div>
-                                </div>
-+----
-                                 <div class=class="card-panel">
-                                      <ul class="collection">
-                                          <div class="collection-item avatar">
-                                              <i class="fa fa-address-card-o circle blue" aria-hidden="true"></i>
-                                              <span class="title">Konrad Krolikowski <br/> 22 ans</span> <br/>
-                                              <span>Brest,France<br/></span>
-                                          </div>
-                                          <div class="collection-item valign-wrapper">
-
-                                              <i class="fa fa-github small" aria-hidden="true"></i>
-                                              <span class="badge" > <a href="https://github.com/kkroliko">My GitHub</a></span>
-                                          </div>
-                                          <li class="collection-item valign-wrapper">
-                                              <i class="fa fa-envelope-o small" aria-hidden="true"></i>
-                                              <span class="badge"> <a href="mailto:k.kroliko29@gmail.com">Email</a></span>
-                                          </li>
-                                      </ul>
-                          </div>
+.card-panel {
+ 
+}
